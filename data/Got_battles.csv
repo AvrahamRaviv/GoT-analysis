@@ -1,0 +1,64 @@
+year,outcome_attack,aid_defender,defender_leader,aid_attacks,attacker_leader,name
+298,1,Tully,Robb Stark,Lannister,Joffrey/Tommen Baratheon,Battle of the Golden Tooth
+298,1,Baratheon,Robb Stark,Lannister,Joffrey/Tommen Baratheon,Battle at the Mummer's Ford
+298,1,Tully,Robb Stark,Lannister,Joffrey/Tommen Baratheon,Battle of Riverrun
+298,-1,Frey,Joffrey/Tommen Baratheon,Stark,Robb Stark,Battle of the Green Fork
+298,1,Lannister,Joffrey/Tommen Baratheon,Stark,Robb Stark,Battle of the Whispering Wood
+298,1,Lannister,Joffrey/Tommen Baratheon,Stark,Robb Stark,Battle of the Camps
+298,1,Darry,Robb Stark,Stark,Joffrey/Tommen Baratheon,Sack of Darry
+299,1,Stark,Robb Stark,Greyjoy,Euron Greyjoy,Battle of Moat Cailin
+299,1,Stark,Robb Stark,Greyjoy,Euron Greyjoy,Battle of Deepwood Motte
+299,1,Stark,Robb Stark,Greyjoy,Euron Greyjoy,Battle of the Stony Shore
+299,1,Greyjoy,Euron Greyjoy,Stark,Robb Stark,Battle of Torrhen's Square
+299,1,Stark,Robb Stark,Greyjoy,Euron Greyjoy,Battle of 1terfell
+299,1,Stark,Euron Greyjoy,Greyjoy,Euron Greyjoy,Sack of Torrhen's Square
+299,1,Stark,Robb Stark,Bolton,Joffrey/Tommen Baratheon,Sack of 1terfell
+299,1,Lannister,Joffrey/Tommen Baratheon,Stark,Robb Stark,Battle of Oxcross
+299,1,Baratheon,Renly Baratheon,Baratheon,Stannis Baratheon,Siege of Storm's End
+299,-1,Tully,Robb Stark,Lannister,Joffrey/Tommen Baratheon,Battle of the Fords
+299,1,Lannister,Joffrey/Tommen Baratheon,Stark,Robb Stark,Sack of Harrenhal
+299,1,Lannister,Joffrey/Tommen Baratheon,Stark,Robb Stark,Battle of the Crag
+299,-1,Frey,Joffrey/Tommen Baratheon,Baratheon,Stannis Baratheon,Battle of the Blackwater
+299,1,Lannister,Joffrey/Tommen Baratheon,other,Robb Stark,Siege of Darry
+299,-1,Lannister,Joffrey/Tommen Baratheon,Stark,Robb Stark,Battle of Duskendale
+299,1,other,,Stark,,Battle of the Burning Septry
+299,1,Stark,Robb Stark,Lannister,Joffrey/Tommen Baratheon,Battle of the Ruby Ford
+299,1,other,,Lannister,Joffrey/Tommen Baratheon,Retaking of Harrenhal
+299,1,Frey,Robb Stark,Stark,Joffrey/Tommen Baratheon,The Red Wedding
+299,1,other,Joffrey/Tommen Baratheon,Stark,Robb Stark,Siege of Seagard
+300,1,other,Astapor,Mormont,Daenarys Targaryan,Sack of Astapor
+300,-1,Night's Watch,Mance Rayder,other,Stannis Baratheon,Battle of Castle Black
+300,1,Greyjoy,Euron Greyjoy,Bolton,Joffrey/Tommen Baratheon,Fall of Moat Cailin
+300,1,other,,Stark,,Sack of Saltpans
+300,1,Greyjoy,Euron Greyjoy,Baratheon,Stannis Baratheon,Retaking of Deepwood Motte
+300,1,Tyrell,Joffrey/Tommen Baratheon,Greyjoy,Euron Greyjoy,Battle of the Shield Islands
+300,1,Tyrell,Joffrey/Tommen Baratheon,Greyjoy,Euron Greyjoy,"Invasion of Ryamsport, Vinetown, and Starfish Harbor"
+300,1,Baratheon,Stannis Baratheon,Baratheon,Joffrey/Tommen Baratheon,Second Seige of Storm's End
+300,1,Baratheon,Stannis Baratheon,Baratheon,Joffrey/Tommen Baratheon,Siege of Dragonstone
+300,1,Tully,Robb Stark,Lannister,Joffrey/Tommen Baratheon,Siege of Riverrun
+300,1,Blackwood,Robb Stark,Bracken,Joffrey/Tommen Baratheon,Siege of Raventree
+300,-1,Bolton,Joffrey/Tommen Baratheon,Baratheon,Stannis Baratheon,Siege of 1terfell
+301,1,Forrester,Lord Rodrik Forrester,other,Gryff Whitehill,Ambush at the Harbor
+301,1,Whitehill,Gryff Whitehill, Forrester,Lord Rodrik Forrester,Ambush at the Tuttle Farm
+301,-1,Bolton,Ramsay Snow,Greyjoy ,Yara Greyjoy,Assault on the Dreadfort
+301,1,Forrester,Lord Rodrik Forrester,other,Gryff Whitehill,Battle of Ironrath
+301,-1,Stark,Stannis Baratheon,Tormund,Mance Ryder,Battle of Castle Black
+301,1,other,Karl Tanner,Stark,Jon Snow,Raid on Craster's Keep
+301,-1,Mormont,Daenarys Targaryan,other,Great Masters,Siege of Meereen
+301,1,other,Night's Watch,Lannister,Tormund,Sack of Mole's Town
+302,1,other,Jon Snow,Lannister,Night King,Massacre at Hardhome
+302,-1,Bolton,Roose Bolton,Baratheon,Stannis Baratheon,Battle of 1terfell (War of the Five Kings)
+303,1,other,Three-eyed Raven,Stark,Night King,Battle at the Cave of the Three-eyed Raven
+303,1,other,Lord Ramsay Bolton,Stark,Jon Snow,Battle of the Bastards
+303,1,Frey,Lothar Frey,Tully,Brynden Tully,Capture of Riverrun
+303,1,other,Sansa Stark,other,Arya Stark,Duel in Braavos
+303,1,Greyjoy,,Bolton,Robett Glover,Second Battle of Deepwood Motte
+303,-1,Lannister,Daenarys Targaryan,other,Razdal mo Araz,Second Siege of Meereen
+303,1,Tully,Brynden Tully,Frey,Jaime Lannister,Second Siege of Riverrun
+303,-1,Baratheon,Tyrion Lannister,Lannister,Mace Tyrell,Standoff at the Great Sept of Baelor
+304,-1,other,Euron Greyjoy,Targaryan,Yara Greyjoy,Assault on the Targaryan Fleet
+304,1,Tarly,Jaime Lannister,other,Daenarys Targaryan,Battle of the Goldroad
+304,1,other,Sansa Stark,other,Night King,Breaching of the Wall
+304,1,Greyjoy,Jaime Lannister,Lannister,Daenarys Targaryan,Fall of Casterly Rock
+304,-1,Tarly,Jaime Lannister,Tyrell,Olenna Tyrell,Sack of Highgarden
+304,1,other,Night King,Targaryan,Jon Snow,Wight Hunt
